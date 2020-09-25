@@ -12,4 +12,4 @@ RUN apt-get update \
         libopencv-imgproc-dev tesseract-ocr ros-melodic-actionlib-msgs \
         libqt5core5a ros-melodic-tf ros-melodic-nav-msgs \
         ros-melodic-navigation libserial-dev libboost-all-dev libqt5core5a \
-        ros-melodic-sensor-msgs libqt5gui5
+        ros-melodic-sensor-msgs libqt5gui5 libqt5websockets5-dev
